@@ -87,6 +87,6 @@ Scikit-learn
 
 ** Brian Kipchumba **
 
-** Borchar Gatwetch **
+** Borchar Gatwech **
 
 ** Mary Karen Karumi **
